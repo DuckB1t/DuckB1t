@@ -53,15 +53,12 @@ I break things so you don’t have to (but you probably still will).
 
 *(If you can’t find the account — it just means I was too lazy to create it yet. Same username everywhere: `Duckb1t`)*  
 
-- 🐦 Twitter/X: [@Duckb1t](https://x.com/Duckb1t)  
 - 📺 YouTube: [Duckb1t](https://youtube.com/@Duckb1t)  
 - 🐙 GitHub: [Duckb1t](https://github.com/Duckb1t)  
 - 📷 Instagram: [@Duckb1t](https://instagram.com/Duckb1t)  
-- 🖼️ Behance: [Duckb1t](https://behance.net/Duckb1t)  
-- 📌 Pinterest: [Duckb1t](https://pinterest.com/Duckb1t)  
+- 🖼️ Behance: [Duckb1t](https://behance.net/Duckb1t)   
 - 📚 Medium: [Duckb1t](https://medium.com/@Duckb1t)  
 - 🎥 TikTok: [@Duckb1t](https://tiktok.com/@Duckb1t)  
-- 💼 LinkedIn: [Duckb1t](https://linkedin.com/in/Duckb1t)  
 - 🐘 Mastodon: [Duckb1t](https://mastodon.social/@Duckb1t)  
 - ❓ whare is discord? idk
 ---
