@@ -13,9 +13,9 @@
 
 ## About Me
 
-I am a growth marketing specialist and part time coder working remotely with clients globally. My core focus is on organic search visibility, technical SEO, AEO, GEO, GMB etc.. right now. 
+I am a growth marketing specialist and part time coder working remotely with clients globally. My core focus right now centers on organic search visibility, technical SEO, Answer Engine Optimization (AEO), Generative Engine Optimization (GEO), and Google Business Profile management.
 
-I build the custom tools I need for my own projects because if I can build a practical tool myself, there is no reason to pay a monthly subscription for it (though some software is definitely worth buying). 
+I build the custom tools I need for my own projects because if I can build a practical tool myself, there is no reason to pay a monthly subscription for it (though some software is definitely worth buying).
 
 For services and project inquiries, visit [heyjuyel.com](https://heyjuyel.com).
 
