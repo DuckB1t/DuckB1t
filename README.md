@@ -72,9 +72,7 @@ You can find my projects below, and I'm always open to feedback, bug reports, an
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuckB1t\&show_icons=true\&theme=transparent\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DuckB1t\&layout=compact\&theme=transparent\&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Duckb1t&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duckb1t&layout=compact&theme=tokyonight) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Duckb1t&theme=tokyonight)
 
 ---
 
