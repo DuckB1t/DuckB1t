@@ -1,73 +1,93 @@
-# Hey 👋 I'm Duckb1t  
+# Hi, I'm Juyel Rana 👋
 
-A professional bug factory 🐛, part-time Arch Linux war criminal 🐧, and future YouTube noise machine 📹.  
-I break things so you don’t have to (but you probably still will).  
+I'm a Growth Specialist and developer from Bangladesh focused on helping businesses grow through SEO, automation, AI, and modern web experiences.
 
----
+I enjoy building things that solve real problems, whether that's improving search visibility, automating repetitive work, or creating fast, user-friendly websites.
 
-## 🦆 About Me  
+> **Note:** You might come across some old projects, usernames, or questionable experiments I left around the internet. Consider them evidence that I started building early—not a reflection of what I do today.
 
-- ✨ Creating bugs since I first ran `sudo rm -rf /` by accident  
-- 📚 Currently learning: scripting (bash + python), AI shenanigans, and how not to crash my editor every 5 minutes  
-- 🎯 Goals: build cool shit, grow a chaotic YouTube channel, and flex harder than my friends’ GPUs  
-- 🤝 Looking for help with: surviving AUR rate limits without therapy  
-- 💬 Ask me about: Linux chaos, AI tools, and why I have more email accounts than friends  
-- 📫 Reach me at: **iatebanana@tuta.io** (fun but this is an actual email btw) | **hi.krofe@gmail.com** (serious.. if you wanna send money)  
-- 🎲 Fun fact: I once installed Arch Linux just to uninstall it for content  
+## What I'm Working On
 
----
-
-## ⚡ Tech Stack (maybe fake.. you never know)  
-
-**Languages:**  
-`Python` • `JavaScript` • `TypeScript` • `C`  
-
-**Frontend:**  
-`React` • `Next.js` • `TailwindCSS` • `HTML5` • `CSS3`  
-
-**Backend:**  
-`Node.js` • `Express`  
-
-**AI/ML (aka summoning demons):**  
-`PyTorch` • `Pandas` • `Scikit-learn`  
-
-**Databases:**  
-`MySQL` • `MongoDB` • `SQLite`  
-
-**DevOps / Tools:**  
-`Linux` • `Docker` • `Git` • `Bash` • `Postman`  
+* 🚀 Growing my portfolio **heyjuyel.com**
+* 🤖 Building AI-powered automation workflows
+* 🔍 SEO strategies that drive organic growth
+* 🌐 Developing modern web applications with Next.js
+* ⚙️ Creating open-source tools for developers and marketers
 
 ---
 
-## 📊 GitHub Stats (aka flex section)  
+## Tech Stack
 
-![Duckb1t's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duckb1t&show_icons=true&theme=tokyonight)  
+### Growth & Marketing
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duckb1t&layout=compact&theme=tokyonight)  
+* SEO
+* Keyword Research
+* Local SEO
+* Technical SEO
+* Google Analytics
+* Google Search Console
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Duckb1t&theme=tokyonight)  
+### Development
+
+* JavaScript
+* TypeScript
+* PHP
+* Python
+* HTML
+* CSS
+
+### Frameworks & Tools
+
+* Next.js
+* React
+* Tailwind CSS
+* WordPress
+* Payload CMS
+* Node.js
+
+### Automation & AI
+
+* n8n
+* Activepieces
+* OpenAI API
+* AI Workflow Design
+
+### Dev Tools
+
+* Linux
+* Git
+* Docker
+* Cloudflare
+* Vercel
 
 ---
 
-## 🌍 Socials  
+## Open Source
 
-*(If you can’t find the account — it just means I was too lazy to create it yet. Same username everywhere: `Duckb1t`)*  
+I enjoy building and maintaining open-source projects that make development, automation, and SEO workflows simpler.
 
-- 📺 YouTube: [Duckb1t](https://youtube.com/@Duckb1t)  
-- 🐙 GitHub: [Duckb1t](https://github.com/Duckb1t)  
-- 📷 Instagram: [@Duckb1t](https://instagram.com/Duckb1t)  
-- 🖼️ Behance: [Duckb1t](https://behance.net/Duckb1t)   
-- 📚 Medium: [Duckb1t](https://medium.com/@Duckb1t)  
-- 🎥 TikTok: [@Duckb1t](https://tiktok.com/@Duckb1t)  
-- 🐘 Mastodon: [Duckb1t](https://mastodon.social/@Duckb1t)  
-- ❓ whare is discord? idk
----
-
-## ☕ Support My Chaos  
-
-If you enjoy watching me break Linux for fun:  
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/duckb1t)  
+You can find my projects below, and I'm always open to feedback, bug reports, and contributions.
 
 ---
 
-> 💀 **Disclaimer:** If my code works, it was an accident. If my socials don’t exist, I was just lazy.  
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuckB1t\&show_icons=true\&theme=transparent\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DuckB1t\&layout=compact\&theme=transparent\&hide_border=true)
+
+---
+
+## Let's Connect
+
+🌐 Website: https://heyjuyel.com
+
+💼 LinkedIn: https://linkedin.com/in/iamkahachrofe
+
+🐙 GitHub: https://github.com/DuckB1t
+
+📧 Email: [hello@heyjuyel.com](mailto:hello@heyjuyel.com) , [hi.krofe@gmail.com](mailto:hi.krofe@gmail.com) (more relable) 
+
+---
+
+> Build useful things. Share what you learn. Keep improving.
