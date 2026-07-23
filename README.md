@@ -13,11 +13,11 @@
 
 ## About Me
 
-I am a growth marketing specialist and vibe coder based in Rajshahi, Bangladesh. My work focuses on organic search visibility, competitor research, technical performance, and automated lead generation systems. I combine search intent mapping, conversion-focused content strategy, and technical search engine optimization with web application development, custom tool building, and marketing automation. 
+I am a growth marketing specialist and part time coder working remotely with clients globally. My core focus is on organic search visibility, technical SEO, AEO, GEO, GMB etc.. right now. 
 
-Whether executing cold outreach campaigns or developing custom tools with Next.js, WordPress, and AI-assisted workflows, I build practical solutions designed for measurable growth.
+I build the custom tools I need for my own projects because if I can build a practical tool myself, there is no reason to pay a monthly subscription for it (though some software is definitely worth buying). 
 
-For specific client services and inquiries, visit [heyjuyel.com](https://heyjuyel.com).
+For services and project inquiries, visit [heyjuyel.com](https://heyjuyel.com).
 
 ---
 
